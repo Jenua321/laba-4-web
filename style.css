@@ -1,0 +1,191 @@
+.fon
+{
+	margin-left: 10%;
+	margin-right: 12%;
+ 
+}
+.table {
+    display:table;
+    width: 100%;
+    text-align: center;
+}
+.tr{
+    display:table-row;
+    text-align: center;
+}
+
+.d2 
+{
+    display:table-cell;
+    float: left;
+    width: 24%;
+  text-align: center;
+  color: #FFFFFF;
+
+  position: relative;
+  display: inline-block;
+  height: 2.5em;
+  line-height: 2.5em;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #777;
+  color: #fff;
+  outline: none;
+  border: 2px solid #F64C2B;
+  border-radius: 5px;
+  box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em #800;
+  background: linear-gradient(#FB9575, #F45A38 48%, #EA1502 52%, #F02F17);
+}
+.d2:active 
+{
+  top: .1em;
+  left: .1em;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
+}
+.index_carimage
+{
+       margin-top:49px;
+       float: right;
+}  
+
+.index_cetagories 
+ {
+      border-bottom:1px solid #FFFFFF;
+	  color:#FFFFFF;
+	  height:47px;
+	  font-size:22px;
+	  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: red;
+  font-weight: 900;
+}
+.index_welcome
+{
+      height:54px;
+  
+}	 
+	  
+.index_welcomecontaint
+{
+    font-size:30px;
+    font: bold 3em Arial, sans-serif;
+    color: #FF0000;
+    text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
+                 #cad5e2 3px 3px 0, #cad5e2 4px 4px 0, 
+                 #cad5e2 5px 5px 0;
+
+ } 
+	  
+.index_containt
+{
+      font-size:20px;
+      color: white;
+	  line-height:20px;
+    font: 1.3em Arial, sans-serif;
+    text-shadow: red 1px 1px 0, red -1px -1px 0, 
+                 white -1px 1px 0, red 1px -1px 0;
+}	
+	  
+.index_proposal
+{
+     font-size:28px;
+     color:	#FFFFFF;
+    font: 2em Arial, sans-serif;
+    text-shadow: red 0 0 5px;
+} 
+.proposal
+{
+  display: inline-block;
+}
+
+.index_containt1
+{
+	 font-size:15px;
+	 color:	#FFFFFF;
+	 font-weight:bold;
+   margin-right: 12%;
+   margin-bottom: 6%;
+	 text-decoration:none;
+   position: relative;
+  display: inline-block;
+  height: 2.5em;
+  line-height: 2.5em;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #777;
+  color: #fff;
+  outline: none;
+  border: 2px solid #F64C2B;
+  border-radius: 5px;
+  box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em #800;
+  background: linear-gradient(#FB9575, #F45A38 48%, #EA1502 52%, #F02F17);
+}
+.index_containt1:active 
+{
+  top: .1em;
+  left: .1em;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
+  margin: 0;
+}
+
+.containt2
+{
+  margin-right: 10px;
+}
+
+	 
+
+	
+ .index_fottor
+ {
+     width:900px;
+	 height:150px;
+	 background-repeat:repeat-x;
+}
+	 
+ .index_fottorcontaint
+{
+	  color:#FFFFFF;
+    font: bold 2em Arial, sans-serif;
+    color: #0d3967;
+    text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
+                 #cad5e2 3px 3px 0, #cad5e2 4px 4px 0, 
+                 #cad5e2 5px 5px 0;
+}	 
+
+.cetagories 
+{
+	margin:10px;
+	padding:10px;
+	color: 	#FFFFFF;
+	height:50px;
+	line-height:28px;
+	color: 	#FFFFFF;
+	width: 160px;
+
+  position: relative;
+  display: inline-block;
+  width: 10em;
+  height: 2.5em;
+  line-height: 2.5em;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #777;
+  color: #fff;
+  outline: none;
+  border: 2px solid #F64C2B;
+  border-radius: 5px;
+  box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em #800;
+  background: linear-gradient(#FB9575, #F45A38 48%, #EA1502 52%, #F02F17);
+}
+.cetagories:active {
+  top: .1em;
+  left: .1em;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
+}
+
+

@@ -1,0 +1,60 @@
+@media all and (max-width: 1600px){
+	.fon{
+       width: 65%
+	}
+}
+@media all and (max-width: 800px){
+	.table{
+       width: 100%
+	}
+}
+@media all and (max-width: 800px){
+	.d2{
+       width: 100%
+	}
+}
+@media all and (max-width: 800px){
+	.index_carimage{
+       width: 100%
+	}
+}
+@media all and (max-width: 800px){
+	.index_cetagories{
+       width: 100%
+	}
+}
+@media all and (max-width: 800px height: 400px){
+	.cetagories{
+       width: 65%
+	}
+}
+@media all and (max-width: 800px){
+	.styleborder{
+       width: 100%
+	}
+}
+@media all and (max-width: 800px){
+	.index_welcome{
+       width: 70%
+	}
+}
+@media all and (max-width: 800px){
+	.index_welcomecontaint{
+       width: 70%
+	}
+}
+@media all and (max-width: 800px){
+	.index_containt{
+       width: 60%
+	}
+}
+@media all and (max-width: 800px){
+	.index_proposal{
+       width: 80%
+	}
+}
+@media all and (max-width: 800px){
+	.index_containt1{
+       width: 60%
+	}
+}
